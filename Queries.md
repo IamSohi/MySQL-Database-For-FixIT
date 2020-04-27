@@ -1,10 +1,9 @@
 **Queries**
 
 **Some examples of queries as follow:** 
-
  
 
-1.  **Monthly Sales: ** 
+1.  **Monthly Sales:** 
 
 a.  Purpose: 
 
@@ -14,29 +13,19 @@ a.  Purpose: 
 
 b.  Syntax: 
 
-![](Screenshots/monthlySales.png)
+> ![](Screenshots/monthlySales.png)
 
->  
->
-> c:  Meaning of the results: 
->
+c:  Meaning of the results: 
+
 > The result will show the total sales that have been occurred for the
 > specified month with tax and without tax. 
 >
 > Example: 
 >
 > ![](Screenshots/monthlySalesR.png)
->
->  
->
->  
 
-**\
-**
 
 2.  **Inventory Check:** 
-
->  
 
 a.  Purpose: 
 
@@ -44,44 +33,22 @@ a.  Purpose: 
 > check i.e to check if all the product at the store are available in a
 > required quantity. 
 
- 
-
 b.  Syntax: 
 
->  
->
->  
->
-![](Screenshots/inventoryCheck.png)
+> ![](Screenshots/inventoryCheck.png)
 
->  
->
->  
->
-> c: Meaning of the results: 
->
+c: Meaning of the results: 
+
 > The result of this query shows a table that contains the
 > products whose quantity is less than 10 items. It also shows
-> the Supplier name of those products respectably as well. 
->
->  
+> the Supplier name of those products respectably as well.   
 >
 > Example: 
->
->  
+> ![](Screenshots/inventoryCheckR.png)
 
-![](Screenshots/inventoryCheckR.png)
-
->  
-
-**\
-**
 
 3.  **Checking Due Date of repairs:** 
 
-```{=html}
-<!-- -->
-```
 a.  Purpose: 
 
 > This query helps the employees to know the due date of repair given a
@@ -89,56 +56,39 @@ a.  Purpose: 
 
 b.  Syntax:
 
->  
+> ![](Screenshots/dueDate.png)
 
-![](Screenshots/dueDate.png)
+c: Meaning of the results: 
 
-
-> c: Meaning of the results: 
->
 > The result will show a table with a row containing customer
 > information along with the date received and due date of
 > the repair request by respectable customer. 
 >
 > Example: 
->
-![](Screenshots/dueDateR.png)
->
->  
+> ![](Screenshots/dueDateR.png)
 
-**\
-**
 
 4.  **Product Lookup:** 
 
-> a\. Purpose:  
->
+a. Purpose:  
+
 > The following query shows the products that satisfy the customer
 > budget constraints. 
->
-> b\. Syntax: 
->
-![](Screenshots/productLookup.png)
->
-> c: Meaning of the results: 
->
+
+b. Syntax: 
+> ![](Screenshots/productLookup.png)
+
+c: Meaning of the results: 
+
 > The result will list the products from the product table those
 > fall within certain range of price as requested by the customer 
 >
 > Example: 
+> ![](Screenshots/productLookupR.png)
 
-![](Screenshots/productLookupR.png)
-
->  
-
-**\
-**
 
 5.  **Employee of the month:** 
 
-```{=html}
-<!-- -->
-```
 a.  Purpose: 
 
 > The purpose of the following query is to help the shop owner know
@@ -146,24 +96,15 @@ a.  Purpose: 
 >
 > The employee who is engaged in maximum number of sales is selected as
 > the employee of the month. 
->
->  
->
-> b\. Syntax: 
+  
+b. Syntax: 
 
-![](Screenshots/empOfMonth.png)
+> ![](Screenshots/empOfMonth.png)
 
->  
->
-> c: Meaning of the results: 
->
+c: Meaning of the results: 
+
 > The query will show the personal details of that employee who
 > has achieved maximum number of sales for a specific month. 
 >
->  
->
 > Example: 
-
- 
-
-![](Screenshots/empOfMonth.png)
+> ![](Screenshots/empOfMonth.png)
