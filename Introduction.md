@@ -1,12 +1,13 @@
-MySQL Database for FixIT
+<h1 align="center">MySQL Database for FixIT</h1>
 
-Prepared By:
+## Contributors:
 
-Sukhveer Sohi
+   Sukhveer Sohi   [IamSohi](https://github.com/IamSohi)
+   
+   Premgeet Singh  [PremgeetSingh](https://github.com/PremgeetSingh)
 
-Premgeet Singh
+   Amanpreet Singh
 
-Amanpreet Singh
 
 **Introduction**
 
