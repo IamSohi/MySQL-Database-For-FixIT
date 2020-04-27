@@ -1,7 +1,8 @@
 **Queries**
 
 **Some examples of queries as follow:** 
- 
+
+<br/>
 
 1.  **Monthly Sales:** 
 
@@ -24,6 +25,7 @@ c:  Meaning of the results: 
 >
 > ![](Screenshots/monthlySalesR.png)
 
+<br/>
 
 2.  **Inventory Check:** 
 
@@ -46,6 +48,7 @@ c: Meaning of the results: 
 > Example: 
 > ![](Screenshots/inventoryCheckR.png)
 
+<br/>
 
 3.  **Checking Due Date of repairs:** 
 
@@ -67,6 +70,7 @@ c: Meaning of the results: 
 > Example: 
 > ![](Screenshots/dueDateR.png)
 
+<br/>
 
 4.  **Product Lookup:** 
 
@@ -86,6 +90,7 @@ c: Meaning of the results: 
 > Example: 
 > ![](Screenshots/productLookupR.png)
 
+<br/>
 
 5.  **Employee of the month:** 
 
