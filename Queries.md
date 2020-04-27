@@ -6,9 +6,6 @@
 
 1.  **Monthly Sales: ** 
 
-```{=html}
-<!-- -->
-```
 a.  Purpose: 
 
 > Suppose the shop owner wants to know the total monthly sales of the
@@ -17,9 +14,7 @@ a.  Purpose: 
 
 b.  Syntax: 
 
->  
-
-![](media/image1.png){width="7.360644138232721in" height="1.075in"}
+![](Screenshots/monthlySales.png)
 
 >  
 >
@@ -30,8 +25,7 @@ b.  Syntax: 
 >
 > Example: 
 >
-> ![](media/image2.png){width="4.72691491688539in"
-> height="0.9583333333333334in"}
+> ![](Screenshots/monthlySalesR.png)
 >
 >  
 >
@@ -58,9 +52,8 @@ b.  Syntax: 
 >
 >  
 >
-> ![](media/image3.png){width="5.854028871391076in"
-> height="2.1333333333333333in"}
->
+![](Screenshots/inventoryCheck.png)
+
 >  
 >
 >  
@@ -77,7 +70,7 @@ b.  Syntax: 
 >
 >  
 
-![](media/image4.png){width="7.080928477690288in" height="1.075in"}
+![](Screenshots/inventoryCheckR.png)
 
 >  
 
@@ -98,8 +91,8 @@ b.  Syntax:
 
 >  
 
-![](media/image5.png){width="7.1498053368328955in"
-height="3.0083333333333333in"}
+![](Screenshots/dueDate.png)
+
 
 > c: Meaning of the results: 
 >
@@ -109,7 +102,7 @@ height="3.0083333333333333in"}
 >
 > Example: 
 >
-> ![](media/image6.png){width="5.775in" height="0.6583333333333333in"}
+![](Screenshots/dueDateR.png)
 >
 >  
 
@@ -125,7 +118,7 @@ height="3.0083333333333333in"}
 >
 > b\. Syntax: 
 >
-> ![](media/image7.png){width="5.287836832895888in" height="2.15in"}
+![](Screenshots/productLookup.png)
 >
 > c: Meaning of the results: 
 >
@@ -134,7 +127,7 @@ height="3.0083333333333333in"}
 >
 > Example: 
 
-![](media/image8.png){width="7.4197495625546805in" height="0.975in"}
+![](Screenshots/productLookupR.png)
 
 >  
 
@@ -158,7 +151,7 @@ a.  Purpose: 
 >
 > b\. Syntax: 
 
-![](media/image9.png){width="7.099781277340332in" height="2.425in"}
+![](Screenshots/empOfMonth.png)
 
 >  
 >
@@ -173,4 +166,4 @@ a.  Purpose: 
 
  
 
-![](media/image10.png){width="4.075in" height="0.65in"}
+![](Screenshots/empOfMonth.png)
